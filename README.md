@@ -55,7 +55,7 @@ script does not upload anything and does not publish a release.
 ## Packaging a release
 
 ```bash
-./package-model-release.sh \
+bash package-model-release.sh \
   --model-dir build/1.0.0 \
   --version 1.0.0 \
   --output dist/1.0.0
