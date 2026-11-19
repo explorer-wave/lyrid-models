@@ -1,0 +1,20 @@
+MAEST Discogs 10s pretrained model weights
+Copyright (c) Music Technology Group, Universitat Pompeu Fabra
+
+The model weights and converted Core ML artifacts are licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License.
+
+License summary and full legal code:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Commercial use requires a separate proprietary license from MTG / UPF:
+https://www.upf.edu/web/mtg
+
+You must preserve attribution and indicate changes made when converting the
+PyTorch weights to Core ML. The conversion changes the runtime format and
+precision; it does not change the model's training data or license.
+
+This notice is not legal advice. Consult MTG / UPF or qualified counsel for
+commercial distribution.
+

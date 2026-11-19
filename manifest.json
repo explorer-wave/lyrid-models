@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "provider": "MAEST",
+  "modelKey": "discogs-maest-10s-pw-129e",
+  "version": "1.0.0",
+  "displayName": "MAEST · Discogs 10s",
+  "minimumAppVersion": "1.0.0",
+  "minimumMacOSVersion": "14.0",
+  "license": "CC BY-NC-SA 4.0",
+  "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "commercialUse": "A proprietary license is required from MTG / UPF.",
+  "attribution": "Music Technology Group, Universitat Pompeu Fabra; Pablo Alonso-Jimenez, Xavier Serra, Dmitry Bogdanov",
+  "sourceURL": "https://huggingface.co/mtg-upf/discogs-maest-10s-pw-129e",
+  "analyzerVersion": 1,
+  "archive": {
+    "name": "maest-10s-fp16-1.0.0.zip",
+    "size": 159119479,
+    "sha256": "a33d876bc669bf5a6dec206f97c9c2743a9f7f9f29a7a7c0d8a567d7dd77ce3a"
+  },
+  "files": {
+    "labels.json": {
+      "size": 10373,
+      "sha256": "bdfe4e41df1987ba2387750207b77df089c90c37d8064e2d6b7dd93e30800e72"
+    },
+    "maest-10s-fp16.mlmodelc/analytics/coremldata.bin": {
+      "size": 243,
+      "sha256": "1c89610b8d74b9db518aef61336f9f8ec26f328287248d21e7fb4765fc3645b3"
+    },
+    "maest-10s-fp16.mlmodelc/coremldata.bin": {
+      "size": 369,
+      "sha256": "2e9346f02b0537314c889686dcc7a3b009d960fe802ed82244990eaf7fdda6ba"
+    },
+    "maest-10s-fp16.mlmodelc/metadata.json": {
+      "size": 1939,
+      "sha256": "8195db91c969e096549de72b1f3c4d147aea951aec4b77a9c73f0767a389f6d7"
+    },
+    "maest-10s-fp16.mlmodelc/model.mil": {
+      "size": 179615,
+      "sha256": "e962030c916e0f42ca4b783c460ef81c1b1f7cbbbae4ed713b5a8728283ea16b"
+    },
+    "maest-10s-fp16.mlmodelc/weights/weight.bin": {
+      "size": 172001312,
+      "sha256": "0d871a094ff35ba17e499d5f627ad6209cf28be998df346f7f6bd796217571ae"
+    },
+    "maest_mel_filters.bin": {
+      "size": 98688,
+      "sha256": "d046cc5a5fea8ec56892f73c5d7c7c78c48ca410a8ea54c29e37da5658451096"
+    }
+  }
+}
